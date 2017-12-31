@@ -1,0 +1,36 @@
+#heading {
+  background-image: url("../../resources/images/pattern1.jpeg");
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+#art {
+  background-color: lightcoral;
+}
+
+#finnish {
+  background-color: skyblue;
+}
+
+strong {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
